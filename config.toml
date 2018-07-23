@@ -9,7 +9,7 @@ pygmentsCodefences      = true
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    # favicon             = "/sam.ico"
+    favicon             = "/sam.ico"
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
@@ -25,7 +25,7 @@ pygmentsCodefences      = true
     text = "Writing"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "/samuel_guyah_resume.pdf"
     text = "Resume"
 
 [[params.mainMenu]]
