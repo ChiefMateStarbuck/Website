@@ -13,7 +13,7 @@ pygmentsCodefences      = true
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Powered by HUGO"
+    footerText          = "All Power to All People"
 
 # Metadata
     description         = "This is my blog bro"            # Max 160 characters show in search results
