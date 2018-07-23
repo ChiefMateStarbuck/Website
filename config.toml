@@ -22,7 +22,7 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "Writing"
+    text = "Writings"
 
 [[params.mainMenu]]
     link = "/samuel_guyah_resume.pdf"
