@@ -1,6 +1,6 @@
-baseurl                 = "https://example.org/"               # Your domain name. Must end with "/"
+baseurl                 = "https://sixth-emissary-211215.firebaseapp.com"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "Call me Sam"
+title                   = "Sam's Blog"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -22,7 +22,7 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "Writings"
+    text = "The Blog"
 
 [[params.mainMenu]]
     link = "/samuel_guyah_resume.pdf"
