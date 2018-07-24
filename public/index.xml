@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam&#39;s Blog</title>
+    <link>https://sixth-emissary-211215.firebaseapp.com/</link>
+    <description>Recent content on Sam&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jul 2018 20:52:39 -0400</lastBuildDate>
+    
+	<atom:link href="https://sixth-emissary-211215.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://sixth-emissary-211215.firebaseapp.com/about/</link>
+      <pubDate>Sun, 22 Jul 2018 20:52:39 -0400</pubDate>
+      
+      <guid>https://sixth-emissary-211215.firebaseapp.com/about/</guid>
+      <description>Hello! I&amp;rsquo;m Samuel Septimus Guyah, current Senior at Florida Atlantic University studying Computer Science. This blog contains my thoughts on Computer Science, Mathematics, Literature, Philosophy and generally any subject I find appealing to write about.
+I&amp;rsquo;m currently looking for both internships and full-time positions in the field of Artificial Intelligence so check out resume if you&amp;rsquo;re scouting for talent.
+You can reach me through my email and you can check out my github</description>
+    </item>
+    
+  </channel>
+</rss>
