@@ -1,9 +1,9 @@
 ---
 title: "Posts"
 date: 2018-07-21T18:13:24-04:00
-showDate: true
+showDate: false
 draft: false
 tags: [""]
 ---
 
-I'm working on my first post entry. Please check back soon.
+*"The white man made the mistake of letting me read his history books. [laughter] He made the mistake of teaching me that Patrick Henry was a patriot, and George Washington – wasn't nothing non-violent about ol' Pat, or George Washington." - Malcolm X*

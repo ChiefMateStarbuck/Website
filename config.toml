@@ -30,5 +30,5 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "Who am I?"
+    text = "Who Am I?"
     
