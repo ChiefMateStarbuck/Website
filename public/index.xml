@@ -6,19 +6,10 @@
     <description>Recent content on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jul 2018 10:37:04 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 20:52:39 -0400</lastBuildDate>
     
 	<atom:link href="https://sixth-emissary-211215.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Congratulations! You&#39;ve Killed God!</title>
-      <link>https://sixth-emissary-211215.firebaseapp.com/posts/congratulations/</link>
-      <pubDate>Mon, 30 Jul 2018 10:37:04 -0400</pubDate>
-      
-      <guid>https://sixth-emissary-211215.firebaseapp.com/posts/congratulations/</guid>
-      <description>Yay!</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -27,7 +18,7 @@
       
       <guid>https://sixth-emissary-211215.firebaseapp.com/about/</guid>
       <description>Hello! I&amp;rsquo;m Samuel Septimus Guyah, current Senior at Florida Atlantic University studying Computer Science. This blog contains my thoughts on Computer Science, Mathematics, Literature, Philosophy and generally any subject I find appealing to write about.
-I&amp;rsquo;m currently looking for both internships and full-time positions in the field of Artificial Intelligence so check out my resume if you&amp;rsquo;re scouting for talent.
+I&amp;rsquo;m currently looking for both internships and full-time positions as a software engineer with a focus on artificial intelligence so check out my resume if you&amp;rsquo;re scouting for talent.
 You can reach me through my email and you can check out my github</description>
     </item>
     

@@ -11,14 +11,5 @@
 	<atom:link href="https://sixth-emissary-211215.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Congratulations! You&#39;ve Killed God!</title>
-      <link>https://sixth-emissary-211215.firebaseapp.com/posts/congratulations/</link>
-      <pubDate>Mon, 30 Jul 2018 10:37:04 -0400</pubDate>
-      
-      <guid>https://sixth-emissary-211215.firebaseapp.com/posts/congratulations/</guid>
-      <description>Yay!</description>
-    </item>
-    
   </channel>
 </rss>
