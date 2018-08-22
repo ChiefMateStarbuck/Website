@@ -1,4 +1,4 @@
-baseurl                 = "https://sixth-emissary-211215.firebaseapp.com/"               # Your domain name. Must end with "/"
+baseurl                 = "https://ssguyah.com/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Sam's Blog"
 theme                   = "sam"

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam&#39;s Blog</title>
-    <link>https://sixth-emissary-211215.firebaseapp.com/</link>
+    <link>https://ssguyah.com/</link>
     <description>Recent content on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Aug 2018 11:26:08 -0400</lastBuildDate>
     
-	<atom:link href="https://sixth-emissary-211215.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ssguyah.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Murakami the Artist</title>
-      <link>https://sixth-emissary-211215.firebaseapp.com/posts/murakami-the-artist/</link>
+      <link>https://ssguyah.com/posts/murakami-the-artist/</link>
       <pubDate>Wed, 22 Aug 2018 11:26:08 -0400</pubDate>
       
-      <guid>https://sixth-emissary-211215.firebaseapp.com/posts/murakami-the-artist/</guid>
+      <guid>https://ssguyah.com/posts/murakami-the-artist/</guid>
       <description>It is a if every time I read one of his works I begin to catch myself, periodically through out the day, dreaming of nondescript facades of truly empty people living lives that question the very meaning of what it is to be a human being. His literature is paintings of life I never once experienced before; it casts me into an ocean fear of and serenity that I wish to never escape from.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://sixth-emissary-211215.firebaseapp.com/about/</link>
+      <link>https://ssguyah.com/about/</link>
       <pubDate>Sun, 22 Jul 2018 20:52:39 -0400</pubDate>
       
-      <guid>https://sixth-emissary-211215.firebaseapp.com/about/</guid>
+      <guid>https://ssguyah.com/about/</guid>
       <description>Hello! I&amp;rsquo;m Samuel Septimus Guyah, current Senior at Florida Atlantic University studying Computer Science. This blog contains my thoughts on Computer Science, Mathematics, Literature, Philosophy and generally any subject I find appealing to write about.
 I&amp;rsquo;m currently looking for both internships and full-time positions as a software engineer with a focus on artificial intelligence so check out my resume if you&amp;rsquo;re scouting for talent.
 You can reach me through my email and you can check out my github</description>
