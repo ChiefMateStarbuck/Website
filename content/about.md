@@ -8,6 +8,6 @@ Hello! I'm Samuel Septimus Guyah, current Senior at Florida Atlantic University 
 
 I'm currently looking for both internships and full-time positions as a software engineer with a focus on artificial intelligence so check out my resume if you're scouting for talent.
 
-You can reach me through my [email](mailto:sguyah2015@fau.edu) and you can check out my [github](https://github.com/ChiefMateStarbuck/)
+You can reach me through my [email](mailto:sguyah2015@fau.edu).
 
 Please enjoy!
