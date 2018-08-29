@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/posts/what-i-know/</loc>
+    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/about/</loc>
     <lastmod>2018-07-22T20:52:39-04:00</lastmod>
   </url>
@@ -40,6 +45,24 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/computer-science/</loc>
+    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/education/</loc>
+    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/life/</loc>
+    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/literature/</loc>
     <lastmod>2018-08-22T11:26:08-04:00</lastmod>
     <priority>0</priority>
@@ -52,8 +75,20 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/philosophy/</loc>
+    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/</loc>
     <lastmod>2018-08-22T11:54:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/science/</loc>
+    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
