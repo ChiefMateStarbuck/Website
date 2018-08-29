@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ssguyah.com/posts/to-the-end/</loc>
+    <lastmod>2018-08-29T17:12:53-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/posts/my-girl/</loc>
     <lastmod>2018-08-22T11:54:21-04:00</lastmod>
   </url>
@@ -51,8 +56,20 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/death/</loc>
+    <lastmod>2018-08-29T17:12:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/education/</loc>
     <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/god/</loc>
+    <lastmod>2018-08-29T17:12:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +99,7 @@
   
   <url>
     <loc>https://ssguyah.com/</loc>
-    <lastmod>2018-08-22T11:54:21-04:00</lastmod>
+    <lastmod>2018-08-29T17:12:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
