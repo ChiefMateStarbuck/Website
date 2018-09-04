@@ -4,9 +4,9 @@ date: 2018-07-22T20:52:39-04:00
 showDate: false
 ---
 
-Hello! I'm Samuel Septimus Guyah, current Senior at Florida Atlantic University studying Computer Science. This blog contains my thoughts on Computer Science, Mathematics, Literature, Philosophy and generally any subject I find appealing to write about. 
+Hello! I'm Samuel Septimus Guyah, current Senior at Florida Atlantic University studying Computer Science. This blog contains my thoughts on Computer Science, Mathematics, Literature, Philosophy, love, and generally any subject I find appealing to write about.
 
-I'm currently looking for both internships and full-time positions as a software engineer with a focus on artificial intelligence so check out my resume if you're scouting for talent.
+Most of my free time is spent with my girlfriend, at the gym, or on my machine learning side project. 
 
 You can reach me through my [email](mailto:sguyah2015@fau.edu).
 
