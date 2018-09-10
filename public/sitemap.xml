@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ssguyah.com/posts/a-definition-of-art/</loc>
+    <lastmod>2018-09-09T23:54:03-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/posts/to-the-end/</loc>
     <lastmod>2018-08-29T17:12:53-04:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>https://ssguyah.com/tags/art/</loc>
-    <lastmod>2018-08-22T11:26:08-04:00</lastmod>
+    <lastmod>2018-09-09T23:54:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,6 +73,12 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/internet/</loc>
+    <lastmod>2018-09-09T23:54:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/life/</loc>
     <lastmod>2018-08-13T21:50:37-04:00</lastmod>
     <priority>0</priority>
@@ -87,19 +98,19 @@
   
   <url>
     <loc>https://ssguyah.com/tags/philosophy/</loc>
-    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+    <lastmod>2018-09-09T23:54:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ssguyah.com/</loc>
-    <lastmod>2018-08-29T17:12:53-04:00</lastmod>
+    <lastmod>2018-09-09T23:54:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ssguyah.com/tags/</loc>
-    <lastmod>2018-08-22T11:26:08-04:00</lastmod>
+    <lastmod>2018-09-09T23:54:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art on Sam&#39;s Blog</title>
-    <link>https://ssguyah.com/tags/art/</link>
-    <description>Recent content in Art on Sam&#39;s Blog</description>
+    <title>Internet on Sam&#39;s Blog</title>
+    <link>https://ssguyah.com/tags/internet/</link>
+    <description>Recent content in Internet on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 23:54:03 -0400</lastBuildDate>
     
-	<atom:link href="https://ssguyah.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ssguyah.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://ssguyah.com/posts/a-definition-of-art/</guid>
       <description>Art is useless because its aim is simply to create a mood. It is not meant to instruct, or to influence action in any way. It is superbly sterile, and the note of its pleasure is sterility. If the contemplation of a work of art is followed by activity of any kind, the work is either of a very second-rate order, or the spectator has failed to realise the complete artistic impression.</description>
-    </item>
-    
-    <item>
-      <title>Murakami the Artist</title>
-      <link>https://ssguyah.com/posts/murakami-the-artist/</link>
-      <pubDate>Wed, 22 Aug 2018 11:26:08 -0400</pubDate>
-      
-      <guid>https://ssguyah.com/posts/murakami-the-artist/</guid>
-      <description>It is a if every time I read one of his works I begin to catch myself, periodically through out the day, dreaming of nondescript facades of truly empty people living lives that question the very meaning of what it is to be a human being. His literature is paintings of life I never once experienced before; it casts me into an ocean of fear and serenity that I wish to never escape from.</description>
     </item>
     
   </channel>
