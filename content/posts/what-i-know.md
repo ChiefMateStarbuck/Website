@@ -1,7 +1,7 @@
 ---
 title: "What I Learned in Four Years"
 date: 2018-08-13T21:50:37-04:00
-showDate: true
+showDate: false
 draft: false
 tags: ["education", "computer science", "philosophy", "life"]
 ---

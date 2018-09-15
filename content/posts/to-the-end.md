@@ -1,7 +1,7 @@
 ---
 title: "To the End"
 date: 2018-08-29T17:12:53-04:00
-showDate: true
+showDate: false
 draft: false
 tags: ["death","god"]
 ---

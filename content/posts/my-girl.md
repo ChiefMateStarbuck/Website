@@ -1,7 +1,7 @@
 ---
 title: "My Girl (Haiku)"
 date: 2018-08-22T11:54:21-04:00
-showDate: true
+showDate: false
 draft: false
 tags: ["love"]
 ---

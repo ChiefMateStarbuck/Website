@@ -1,7 +1,7 @@
 ---
 title: "A Definition of Art"
 date: 2018-09-09T23:54:03-04:00
-showDate: true
+showDate: false
 draft: false
 tags: ["art", "internet", "philosophy"]
 ---

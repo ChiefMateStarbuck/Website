@@ -1,7 +1,7 @@
 ---
 title: "Murakami the Artist"
 date: 2018-08-22T11:26:08-04:00
-showDate: true
+showDate: false
 draft: false
 tags: ["literature", "art"]
 ---
