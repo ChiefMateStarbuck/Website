@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drive on Sam&#39;s Blog</title>
+    <link>https://ssguyah.com/tags/drive/</link>
+    <description>Recent content in Drive on Sam&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 14:53:50 -0400</lastBuildDate>
+    
+	<atom:link href="https://ssguyah.com/tags/drive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>War?</title>
+      <link>https://ssguyah.com/posts/war/</link>
+      <pubDate>Mon, 01 Oct 2018 14:53:50 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/posts/war/</guid>
+      <description>I believe that it takes a certain amount of comfortability within yourself demanded by the solitude – or in many cases, loneliness – of academic study. It is not the difficulty per say, but the constant bombardment of new information that must digested and regurgitated at such a constant and seemingly never ending pace by yourself can be excruciating. The material is not hard, and maybe there in lies another problem of the academic venture.</description>
+    </item>
+    
+  </channel>
+</rss>

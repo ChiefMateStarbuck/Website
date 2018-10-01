@@ -21,11 +21,38 @@
     </item>
     
     <item>
+      <title>Blah</title>
+      <link>https://ssguyah.com/tags/blah/</link>
+      <pubDate>Mon, 01 Oct 2018 14:42:30 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/blah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brown</title>
+      <link>https://ssguyah.com/tags/brown/</link>
+      <pubDate>Mon, 01 Oct 2018 14:27:09 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computer Science</title>
       <link>https://ssguyah.com/tags/computer-science/</link>
       <pubDate>Mon, 13 Aug 2018 21:50:37 -0400</pubDate>
       
       <guid>https://ssguyah.com/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corruption</title>
+      <link>https://ssguyah.com/tags/corruption/</link>
+      <pubDate>Mon, 01 Oct 2018 14:50:11 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/corruption/</guid>
       <description></description>
     </item>
     
@@ -39,20 +66,74 @@
     </item>
     
     <item>
+      <title>Distance</title>
+      <link>https://ssguyah.com/tags/distance/</link>
+      <pubDate>Mon, 01 Oct 2018 14:45:45 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drive</title>
+      <link>https://ssguyah.com/tags/drive/</link>
+      <pubDate>Mon, 01 Oct 2018 14:53:50 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Education</title>
       <link>https://ssguyah.com/tags/education/</link>
-      <pubDate>Mon, 13 Aug 2018 21:50:37 -0400</pubDate>
+      <pubDate>Mon, 01 Oct 2018 14:07:03 -0400</pubDate>
       
       <guid>https://ssguyah.com/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Exploration</title>
+      <link>https://ssguyah.com/tags/exploration/</link>
+      <pubDate>Mon, 01 Oct 2018 15:01:46 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fight</title>
+      <link>https://ssguyah.com/tags/fight/</link>
+      <pubDate>Mon, 01 Oct 2018 14:19:00 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/fight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friendship</title>
+      <link>https://ssguyah.com/tags/friendship/</link>
+      <pubDate>Mon, 01 Oct 2018 13:48:44 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/friendship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>God</title>
       <link>https://ssguyah.com/tags/god/</link>
-      <pubDate>Wed, 29 Aug 2018 17:12:53 -0400</pubDate>
+      <pubDate>Mon, 01 Oct 2018 13:34:37 -0400</pubDate>
       
       <guid>https://ssguyah.com/tags/god/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greed</title>
+      <link>https://ssguyah.com/tags/greed/</link>
+      <pubDate>Mon, 01 Oct 2018 14:50:11 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/greed/</guid>
       <description></description>
     </item>
     
@@ -84,11 +165,38 @@
     </item>
     
     <item>
+      <title>Loss</title>
+      <link>https://ssguyah.com/tags/loss/</link>
+      <pubDate>Mon, 01 Oct 2018 14:13:49 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Love</title>
       <link>https://ssguyah.com/tags/love/</link>
-      <pubDate>Wed, 22 Aug 2018 11:54:21 -0400</pubDate>
+      <pubDate>Mon, 01 Oct 2018 14:45:45 -0400</pubDate>
       
       <guid>https://ssguyah.com/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>https://ssguyah.com/tags/mental-health/</link>
+      <pubDate>Mon, 01 Oct 2018 14:07:03 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mornings</title>
+      <link>https://ssguyah.com/tags/mornings/</link>
+      <pubDate>Mon, 01 Oct 2018 14:42:30 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/mornings/</guid>
       <description></description>
     </item>
     
@@ -98,6 +206,60 @@
       <pubDate>Sun, 09 Sep 2018 23:54:03 -0400</pubDate>
       
       <guid>https://ssguyah.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poem</title>
+      <link>https://ssguyah.com/tags/poem/</link>
+      <pubDate>Mon, 01 Oct 2018 14:19:00 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pride</title>
+      <link>https://ssguyah.com/tags/pride/</link>
+      <pubDate>Mon, 01 Oct 2018 13:34:37 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/pride/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://ssguyah.com/tags/story/</link>
+      <pubDate>Mon, 01 Oct 2018 13:48:44 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uni</title>
+      <link>https://ssguyah.com/tags/uni/</link>
+      <pubDate>Mon, 01 Oct 2018 14:07:03 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/uni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>War</title>
+      <link>https://ssguyah.com/tags/war/</link>
+      <pubDate>Mon, 01 Oct 2018 14:53:50 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wonder</title>
+      <link>https://ssguyah.com/tags/wonder/</link>
+      <pubDate>Mon, 01 Oct 2018 15:01:46 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/tags/wonder/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ssguyah.com/posts/ares/</loc>
+    <lastmod>2018-10-01T15:01:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/war/</loc>
+    <lastmod>2018-10-01T14:53:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/twisted/</loc>
+    <lastmod>2018-10-01T14:50:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/closer/</loc>
+    <lastmod>2018-10-01T14:45:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/bad-mornings/</loc>
+    <lastmod>2018-10-01T14:42:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/brown_2/</loc>
+    <lastmod>2018-10-01T14:27:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/meh/</loc>
+    <lastmod>2018-10-01T14:19:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/an-ex-named-cat/</loc>
+    <lastmod>2018-10-01T14:13:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/student-body-blues/</loc>
+    <lastmod>2018-10-01T14:07:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/brown_1/</loc>
+    <lastmod>2018-10-01T13:48:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/a-walk-with-god/</loc>
+    <lastmod>2018-10-01T13:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/posts/a-definition-of-art/</loc>
     <lastmod>2018-09-09T23:54:03-04:00</lastmod>
   </url>
@@ -44,6 +99,18 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/blah/</loc>
+    <lastmod>2018-10-01T14:42:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/brown/</loc>
+    <lastmod>2018-10-01T14:27:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -55,20 +122,62 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/corruption/</loc>
+    <lastmod>2018-10-01T14:50:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/death/</loc>
     <lastmod>2018-08-29T17:12:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/distance/</loc>
+    <lastmod>2018-10-01T14:45:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/drive/</loc>
+    <lastmod>2018-10-01T14:53:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/education/</loc>
-    <lastmod>2018-08-13T21:50:37-04:00</lastmod>
+    <lastmod>2018-10-01T14:07:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/exploration/</loc>
+    <lastmod>2018-10-01T15:01:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/fight/</loc>
+    <lastmod>2018-10-01T14:19:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/friendship/</loc>
+    <lastmod>2018-10-01T13:48:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ssguyah.com/tags/god/</loc>
-    <lastmod>2018-08-29T17:12:53-04:00</lastmod>
+    <lastmod>2018-10-01T13:34:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/greed/</loc>
+    <lastmod>2018-10-01T14:50:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,8 +200,26 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/loss/</loc>
+    <lastmod>2018-10-01T14:13:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/love/</loc>
-    <lastmod>2018-08-22T11:54:21-04:00</lastmod>
+    <lastmod>2018-10-01T14:45:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/mental-health/</loc>
+    <lastmod>2018-10-01T14:07:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/mornings/</loc>
+    <lastmod>2018-10-01T14:42:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,14 +230,50 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/poem/</loc>
+    <lastmod>2018-10-01T14:19:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/pride/</loc>
+    <lastmod>2018-10-01T13:34:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/</loc>
-    <lastmod>2018-09-09T23:54:03-04:00</lastmod>
+    <lastmod>2018-10-01T15:01:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/story/</loc>
+    <lastmod>2018-10-01T13:48:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ssguyah.com/tags/</loc>
     <lastmod>2018-09-09T23:54:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/uni/</loc>
+    <lastmod>2018-10-01T14:07:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/war/</loc>
+    <lastmod>2018-10-01T14:53:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/wonder/</loc>
+    <lastmod>2018-10-01T15:01:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   

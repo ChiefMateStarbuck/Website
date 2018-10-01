@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loss on Sam&#39;s Blog</title>
+    <link>https://ssguyah.com/tags/loss/</link>
+    <description>Recent content in Loss on Sam&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 14:13:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://ssguyah.com/tags/loss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Ex Named Cat</title>
+      <link>https://ssguyah.com/posts/an-ex-named-cat/</link>
+      <pubDate>Mon, 01 Oct 2018 14:13:49 -0400</pubDate>
+      
+      <guid>https://ssguyah.com/posts/an-ex-named-cat/</guid>
+      <description>I believe that love, in its most basic form, can be described as such: a want and desire to be physically, mentally, or spiritually close to something or someone and that this said want and desire is unconstrained by the wants and rules that govern survival. The life choices that are made in the pursuit of love, exponentially reduces your chance of survival in this world. That’s really the basics of a definition that I could give you.</description>
+    </item>
+    
+  </channel>
+</rss>
