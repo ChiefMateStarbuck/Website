@@ -7,7 +7,7 @@ tags: ["corruption", "greed"]
 ---
 The world is twisted. 	
 
-It has bent out of proportion by the ruling few who can only see the world through their eyes.; an unphilosophical bunch that can neither see the world upside down nor right side up. They stand for very little and rob on thing. What little minuscule ideas they hold about mathematics, literature, film, anthropology, engineering, philosophy, paintings, biology, music, metaphysics, history, and economics, have very little bases on fact and evidence; if in fact they even speculate on the nature of the world.  They only concern themselves with the robbing of power from the world around them. They bend, strain, and twist the world until it kneels to their gravitational might. Only for their own benefit do they fight and bleed so profusely. 
+It has bent out of proportion by the ruling few who can only see the world through their eyes.; an unphilosophical bunch that can neither see the world upside down nor right side up. They stand for very little and rob on thing. What little minuscule ideas they hold about mathematics, literature, film, anthropology, engineering, philosophy, paintings,biology, music, metaphysics, history, and economics, have very little bases on fact and evidence; if in fact they even speculate on the nature of the world.  They only concern themselves with the robbing of power from the world around them. They bend, strain, and twist the world until it kneels to their gravitational might. Only for their own benefit do they fight and bleed so profusely. 
 
 The world is twisted. 
 

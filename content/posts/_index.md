@@ -6,4 +6,5 @@ draft: false
 tags: []
 ---
 
-*"The white man made the mistake of letting me read his history books. [laughter] He made the mistake of teaching me that Patrick Henry was a patriot, and George Washington – wasn't nothing non-violent about ol' Pat, or George Washington." - Malcolm X*
+> *"The white man made the mistake of letting me read his history books. [laughter] He made the mistake of teaching me that Patrick Henry was a patriot, and George Washington – wasn't nothing non-violent about ol' Pat, or George Washington."  
+- Malcolm X*

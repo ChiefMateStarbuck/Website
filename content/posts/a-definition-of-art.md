@@ -6,7 +6,8 @@ draft: false
 tags: ["art", "internet", "philosophy"]
 ---
 
-> Art is useless because its aim is simply to create a mood. It is not meant to instruct, or to influence action in any way. It is superbly sterile, and the note of its pleasure is sterility. If the contemplation of a work of art is followed by activity of any kind, the work is either of a very second-rate order, or the spectator has failed to realise the complete artistic impression. -- Oscar Wilde
+> Art is useless because its aim is simply to create a mood. It is not meant to instruct, or to influence action in any way. It is superbly sterile, and the note of its pleasure is sterility. If the contemplation of a work of art is followed by activity of any kind, the work is either of a very second-rate order, or the spectator has failed to realise the complete artistic impression.  
+-- Oscar Wilde
 
 Talking on what art IS, Oscar Wilde - although not one of my more celebrated writers - was correct to a point. Art is useless. Unlike the machines that we built to serve information across the world at lighting speeds, art has no sole utility, purpose, goal, or pursuit. Art floats in purgatory between the two paradoxical ideas of serving no utility and encompassing the entire human experience and all that can be expressed. But please do not misunderstand though, when it comes to art and utility, neither of these attributes, in real-world application, are mutually exclusive. 
 
