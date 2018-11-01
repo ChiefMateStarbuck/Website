@@ -1,5 +1,5 @@
 ---
-title: "War?"
+title: "War?!"
 date: 2018-10-01T14:53:50-04:00
 showDate: false
 draft: false
