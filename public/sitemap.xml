@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ssguyah.com/posts/rejection/</loc>
+    <lastmod>2018-11-11T16:12:12-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/posts/ares/</loc>
     <lastmod>2018-10-01T15:01:46-04:00</lastmod>
   </url>
@@ -182,8 +187,20 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/industry/</loc>
+    <lastmod>2018-11-11T16:12:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/internet/</loc>
     <lastmod>2018-09-09T23:54:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/interview/</loc>
+    <lastmod>2018-11-11T16:12:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -243,7 +260,13 @@
   
   <url>
     <loc>https://ssguyah.com/</loc>
-    <lastmod>2018-10-01T15:01:46-04:00</lastmod>
+    <lastmod>2018-11-11T16:12:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/tags/science/</loc>
+    <lastmod>2018-11-11T16:12:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   

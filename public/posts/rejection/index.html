@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    
+    <meta name="description" content="This is my blog bro">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:domain" content="https://ssguyah.com/">
+    
+    <meta name="twitter:image" content="https://ssguyah.com/tn.png">
+    <meta name="twitter:title" property="og:title" itemprop="title name" content="Sam&#39;s Blog">
+    <meta name="twitter:description" property="og:description" itemprop="description" content="This is my blog bro">
+    <meta name="og:type" content="website">
+    <meta name="og:url" content="https://ssguyah.com/">
+    <meta name="og:image" itemprop="image primaryImageOfPage" content="https://ssguyah.com/tn.png">
+    
+    <title>Rejection Letter</title>
+    <link rel="shortcut icon" href="https://ssguyah.com/sam.ico" id="favicon">
+    <link rel="stylesheet" href="https://ssguyah.com/css/style.css">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+    
+    
+
+</head>
+
+</html>
+<body><div class="wrap"><div class="section" id="title">Rejection Letter</div><div class="section" id="content">Sun Nov 11, 2018 &#183; 325 words
+
+<div class="tag-container"><span class="tag"><a href="https://ssguyah.com/tags/science">science</a></span><span class="tag"><a href="https://ssguyah.com/tags/interview">interview</a></span><span class="tag"><a href="https://ssguyah.com/tags/industry">industry</a></span></div><hr/>
+
+<h1 id="currency-converter">Currency Converter</h1>
+
+<p>I currently received a rejection letter of my number one choice company after an over the phone interview.
+I felt pretty bummed about the entire situation so I decided to write out a complete solution for the technical question I was asked. You can check out the Github <a href="https://github.com/ChiefMateStarbuck/Currency">here</a></p>
+
+<h2 id="the-problem">The problem</h2>
+
+<p>Given a .txt list of conversion rates stylized like so:</p>
+
+<pre><code>USD,JPY,1.1
+USD,IMP,.8
+IMP,RUB,8.2
+JMD,USD,.6
+
+EXAMPLE:
+[FIRST CURRENCY], [SECOND CURRENCY], [CONVERSION RATE]
+USD,JPY,1.1
+
+5 Dollars * 1.1 = 5.5 Yen
+</code></pre>
+
+<p>Create a function that converts, one currency to another.</p>
+
+<h3 id="challenge">Challenge</h3>
+
+<p>Your function must be able to determine a path in order to convert the beginning currency to the last. In our example above the path in order to convert USD to RUB is:</p>
+
+<pre><code>USD-&gt;IMP-&gt;RUB
+</code></pre>
+
+<h2 id="my-solution">My Solution</h2>
+
+<p>First things first, I load the .txt file into a map:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">file <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#39;exchange.txt&#39;</span>, <span style="color:#e6db74">&#39;r&#39;</span>)
+
+load <span style="color:#f92672">=</span> {}
+
+<span style="color:#66d9ef">for</span> line <span style="color:#f92672">in</span> file:
+    line_list <span style="color:#f92672">=</span>  line<span style="color:#f92672">.</span>split(<span style="color:#e6db74">&#39;,&#39;</span>)
+    line_list[<span style="color:#ae81ff">2</span>] <span style="color:#f92672">=</span> line_list[<span style="color:#ae81ff">2</span>][:<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>]
+
+    <span style="color:#66d9ef">if</span> line_list[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">not</span> <span style="color:#f92672">in</span> load:
+        <span style="color:#75715e"># The first element in the map is a list which will hold the conversion rates </span>
+        <span style="color:#75715e"># of the current path. (I will be implementing a Breadth First Search to  find the path)</span>
+        load[line_list[<span style="color:#ae81ff">0</span>]] <span style="color:#f92672">=</span> [[]]
+
+    <span style="color:#e6db74">&#34;&#34;&#34;
+</span><span style="color:#e6db74">    The map will look like this:
+</span><span style="color:#e6db74">
+</span><span style="color:#e6db74">    &#39;JMD&#39;: [[],[&#39;RUB&#39;,8.2],[&#39;USD,.6]]
+</span><span style="color:#e6db74">    &#39;RUB&#39;:[[], [&#39;JPY&#39;,1.9]]
+</span><span style="color:#e6db74">    etc ..
+</span><span style="color:#e6db74">
+</span><span style="color:#e6db74">    &#34;&#34;&#34;</span>
+    load[line_list[<span style="color:#ae81ff">0</span>]]<span style="color:#f92672">.</span>append([line_list[<span style="color:#ae81ff">1</span>], float(line_list[<span style="color:#ae81ff">2</span>])])</code></pre></div>
+<p>Next, we calculate:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">exchange</span>(load, begin, end, amount):
+    fringe <span style="color:#f92672">=</span> []
+    visited <span style="color:#f92672">=</span> []
+    fringe<span style="color:#f92672">.</span>append(load[begin][<span style="color:#ae81ff">1</span>:])
+
+    <span style="color:#66d9ef">while</span> fringe:
+        top <span style="color:#f92672">=</span> fringe<span style="color:#f92672">.</span>pop(<span style="color:#ae81ff">0</span>)
+
+        <span style="color:#66d9ef">if</span> top[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">!=</span> end:
+            visited<span style="color:#f92672">.</span>append(top[<span style="color:#ae81ff">0</span>])
+            temp_children <span style="color:#f92672">=</span> load[top[<span style="color:#ae81ff">0</span>]][<span style="color:#ae81ff">1</span>:]
+
+            <span style="color:#66d9ef">for</span> child <span style="color:#f92672">in</span> temp_children:
+
+                <span style="color:#66d9ef">if</span> child[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">==</span> end:
+                    conversion <span style="color:#f92672">=</span> []
+                    conversion<span style="color:#f92672">.</span>extend(load[top[<span style="color:#ae81ff">0</span>]][<span style="color:#ae81ff">0</span>])
+                    conversion<span style="color:#f92672">.</span>append(top[<span style="color:#ae81ff">1</span>])
+                    conversion<span style="color:#f92672">.</span>append(child[<span style="color:#ae81ff">1</span>])
+
+                    <span style="color:#66d9ef">for</span> con <span style="color:#f92672">in</span> conversion:
+                        amount <span style="color:#f92672">*=</span> con
+                    <span style="color:#66d9ef">return</span> con
+
+                <span style="color:#66d9ef">if</span> child[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">not</span> <span style="color:#f92672">in</span> visited <span style="color:#f92672">and</span> child[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">in</span> load: 
+                    fringe<span style="color:#f92672">.</span>append(child)
+                    load[child[<span style="color:#ae81ff">0</span>]][<span style="color:#ae81ff">0</span>]<span style="color:#f92672">.</span>extend(load[top[<span style="color:#ae81ff">0</span>]][<span style="color:#ae81ff">0</span>])
+                    load[child[<span style="color:#ae81ff">0</span>]][<span style="color:#ae81ff">0</span>]<span style="color:#f92672">.</span>append(top[<span style="color:#ae81ff">1</span>])
+                    load[child[<span style="color:#ae81ff">0</span>]][<span style="color:#ae81ff">1</span>] <span style="color:#f92672">=</span> top[<span style="color:#ae81ff">0</span>]
+
+    <span style="color:#66d9ef">return</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span></code></pre></div>
+<h2 id="how-to-use">How To Use</h2>
+
+<ol>
+<li>Download the GitHub and cd into the folder</li>
+<li>(Optional) Add your own values to the &lsquo;exchange.txt&rsquo; file</li>
+<li>Run the engine like so: <code>python3 engine.py [Beginning Currency] [End Currency] [amount]</code></li>
+</ol>
+
+<p>Example: <code>python3 engine.py USD RUB 93.21</code></p>
+
+<p>That&rsquo;s it! You&rsquo;re ready to go.</p>
+</div><div class="section bottom-menu"><hr/><p>
+<a href="/posts">back</a>
+ &#183;
+
+
+
+<a href="/posts">The Blog</a>
+
+
+&#183; <a href="/samuel_guyah_resume.pdf">Resume</a>
+&#183; <a href="/about">Who Am I?</a>
+
+&#183; <a href="https://ssguyah.com/">main</a></p></div><div class="section footer">All Power to All People</div></div></body>

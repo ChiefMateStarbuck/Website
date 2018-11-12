@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Rejection Letter</title>
+      <link>https://ssguyah.com/posts/rejection/</link>
+      <pubDate>Sun, 11 Nov 2018 16:12:12 -0500</pubDate>
+      
+      <guid>https://ssguyah.com/posts/rejection/</guid>
+      <description>Currency Converter I currently received a rejection letter of my number one choice company after an over the phone interview. I felt pretty bummed about the entire situation so I decided to write out a complete solution for the technical question I was asked. You can check out the Github here
+The problem Given a .txt list of conversion rates stylized like so:
+USD,JPY,1.1 USD,IMP,.8 IMP,RUB,8.2 JMD,USD,.6 EXAMPLE: [FIRST CURRENCY], [SECOND CURRENCY], [CONVERSION RATE] USD,JPY,1.</description>
+    </item>
+    
+    <item>
       <title>Ares</title>
       <link>https://ssguyah.com/posts/ares/</link>
       <pubDate>Mon, 01 Oct 2018 15:01:46 -0400</pubDate>
@@ -22,7 +33,7 @@ Is it the end goal of setting foot on a red god? I’ve dreamt of it a thousand 
     </item>
     
     <item>
-      <title>War?</title>
+      <title>War?!</title>
       <link>https://ssguyah.com/posts/war/</link>
       <pubDate>Mon, 01 Oct 2018 14:53:50 -0400</pubDate>
       
@@ -37,7 +48,7 @@ Is it the end goal of setting foot on a red god? I’ve dreamt of it a thousand 
       
       <guid>https://ssguyah.com/posts/twisted/</guid>
       <description>The world is twisted.
-It has bent out of proportion by the ruling few who can only see the world through their eyes.; an unphilosophical bunch that can neither see the world upside down nor right side up. They stand for very little and rob on thing. What little minuscule ideas they hold about mathematics, literature, film, anthropology, engineering, philosophy, paintings,biology, music, metaphysics, history, and economics, have very little bases on fact and evidence; if in fact they even speculate on the nature of the world.</description>
+It has bent out of proportion by the ruling few who can only see the world through their eyes.; an unphilosophical bunch that can neither see the world upside down nor right side up. They stand for very little and rob on thing. What little minuscule ideas they hold about mathematics, literature, film, anthropology, engineering, philosophy, paintings, biology, music, metaphysics, history, and economics, have very little bases on fact and evidence; if in fact they even speculate on the nature of the world.</description>
     </item>
     
     <item>
@@ -55,7 +66,7 @@ It has bent out of proportion by the ruling few who can only see the world throu
       <pubDate>Mon, 01 Oct 2018 14:42:30 -0400</pubDate>
       
       <guid>https://ssguyah.com/posts/bad-mornings/</guid>
-      <description>Thursday, January 8th 2017 10:48pm
+      <description>WRITTEN ON Thursday, January 8th 2017 10:48pm
 A certain grimy existence lives on the dirt of olds cars and foggy morning skies. An impure and grotesque air lives in the morning that I now find to be the bane of my very existence, and will probably be the reason this semester is not the proud and upright semester I’d like it to be. In all honesty, because of the morning beams that begin to — but never fully — warm my body, to the depressing colors of a house in the rising sun, to all around sluggish sense of movement in ones body, mornings are the absolute fucking worst time of the day.</description>
     </item>
     
@@ -170,7 +181,7 @@ I love her a lot</description>
       <pubDate>Mon, 13 Aug 2018 21:50:37 -0400</pubDate>
       
       <guid>https://ssguyah.com/posts/what-i-know/</guid>
-      <description>As the new fall semester begins, so to does the yearly drudge and tiring exhalations of students and faculty heard through out the halls like background noise to a horror film. It is not pretty. The pursuit of pure knowledge, degrees, and ultimately a higher position in society were never designed to be an aesthetically pleasing journey.
+      <description>As the new fall semester begins, so to does the yearly drudge and tiring exhalations of students and faculty heard through out the halls like background noise to a horror film. It is not pretty. The pursuit of pure knowledge, degrees,and ultimately a higher position in society were never designed to be an aesthetically pleasing journey.
 But this is fall. I am about to begin the final year of a four year journey and in a few short months, receive a Bachelors Degree in Computer Science (hopefully with honors if nothing to dramatically terrible happens to my GPA) and begin my career in the tech field.</description>
     </item>
     
