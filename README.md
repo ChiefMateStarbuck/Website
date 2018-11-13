@@ -4,4 +4,4 @@ I've built a personal blog using [Hugo](https://gohugo.io/) and I am currently u
 
 Hosting is provided by [Firebase](https://firebase.google.com/) at practically no cost.
 
-Please Enjoy!
+Please Enjoy! If you have any questions, please ask.
