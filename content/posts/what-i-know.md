@@ -3,7 +3,7 @@ title: "What I Learned in Four Years"
 date: 2018-08-13T21:50:37-04:00
 showDate: false
 draft: false
-tags: ["education", "computer-science", "philosophy", "life"]
+tags: ["education", "science", "philosophy", "life"]
 ---
 
 As the new fall semester begins, so to does the yearly drudge and tiring exhalations of students and faculty heard through out the halls like background noise to a horror film. It is not pretty. The pursuit of pure knowledge, degrees,and ultimately a higher position in society were never designed to be an aesthetically pleasing journey. 
