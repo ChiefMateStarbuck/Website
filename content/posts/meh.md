@@ -28,7 +28,7 @@ And I got nothing to lose
 
 So imma just go for it  
 Take em all down.  
-Forgot that life was lit    
+Forgot that life was lit  
 And I had a good sound.  
 
 So fuck death  
