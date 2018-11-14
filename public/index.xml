@@ -17,9 +17,7 @@
       <pubDate>Sun, 11 Nov 2018 16:12:12 -0500</pubDate>
       
       <guid>https://ssguyah.com/posts/rejection/</guid>
-      <description>Currency Converter I currently received a rejection letter of my number one choice company after an over the phone interview. I felt pretty bummed about the entire situation so I decided to write out a complete solution for the technical question I was asked. You can check out the Github here
-The problem Given a .txt list of conversion rates stylized like so:
-USD,JPY,1.1 USD,IMP,.8 IMP,RUB,8.2 JMD,USD,.6 EXAMPLE: [FIRST CURRENCY], [SECOND CURRENCY], [CONVERSION RATE] USD,JPY,1.</description>
+      <description>Currency Converter I currently received a rejection letter of my number one choice company after an over the phone interview. I felt pretty bummed about the entire situation so I decided to write out a complete solution for the technical question I was asked. You can check out the Github here</description>
     </item>
     
     <item>
