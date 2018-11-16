@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ssguyah.com/posts/untitled/</loc>
+    <lastmod>2018-11-16T14:13:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/apathy/</loc>
+    <lastmod>2018-11-14T19:10:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssguyah.com/posts/honeslty/</loc>
+    <lastmod>2018-11-14T19:10:28-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/posts/rejection/</loc>
     <lastmod>2018-11-11T16:12:12-05:00</lastmod>
   </url>
@@ -212,6 +227,12 @@
   </url>
   
   <url>
+    <loc>https://ssguyah.com/tags/memory/</loc>
+    <lastmod>2018-11-14T19:10:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ssguyah.com/tags/mental-health/</loc>
     <lastmod>2018-10-01T14:07:03-04:00</lastmod>
     <priority>0</priority>
@@ -231,7 +252,7 @@
   
   <url>
     <loc>https://ssguyah.com/tags/poem/</loc>
-    <lastmod>2018-10-01T14:19:00-04:00</lastmod>
+    <lastmod>2018-11-16T14:13:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -243,7 +264,7 @@
   
   <url>
     <loc>https://ssguyah.com/</loc>
-    <lastmod>2018-11-11T16:12:12-05:00</lastmod>
+    <lastmod>2018-11-16T14:13:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
