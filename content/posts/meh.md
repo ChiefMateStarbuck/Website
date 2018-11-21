@@ -34,4 +34,4 @@ And I had a good sound.
 So fuck death  
 And all its cousins  
 Cause till my last breath  
-Imma unload dozens.  
+I'm unloading dozens.  

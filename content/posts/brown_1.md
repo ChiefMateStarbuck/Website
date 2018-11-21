@@ -6,16 +6,16 @@ draft: false
 tags: ["story", "friendship", "brown"]
 ---
 
-Dealing with pain. God damn I was never any good at it. Pain was the enemy for the longest. I despised its presence and reaped nothing from it when it was present. They say that there are two kinds of pain, one that makes you stronger, and one that it useless. My mind has been scattered to the fucking wind. 
+Dealing with pain. God damn I was never any good at it. Pain was the enemy for the longest. I despised its presence and reaped nothing from it. They say that there are two kinds of pain, one that makes you stronger, and one that it useless. My mind has been scattered to the fucking wind. 
 
 I woke up at 8:30pm today. This will be a long night; I have faced longer nights in the past though. And while this really doesn’t make any sense, or why the hell I went to sleep in the first place, I can presume I’ll be facing a lot of pain in the coming months.
 
 He had finally got there. I had been waiting for 20 minutes for Greens to show up, when out from the corner of my eye I finally saw his signature blue jacket. He sat on my right side at the diner and ordered himself a coffee. 
 
-“Sorry I’m late Brown. Just got out work. Try not to take my head off.”
-“You’re cool now. My waitress was keeping me entertained.”
-“So what did you call me all the way here to discuss?”
-“Can’t a guy have a peaceful talk with an old friend?”
+“Sorry I’m late Brown. Just got out work. Try not to take my head off.”  
+“You’re cool now. My waitress was keeping me entertained.”  
+“So what did you call me all the way here to discuss?”  
+After a long pause I spoke. “I'm sorry?”  
 
 Greens took a deep sigh.
 
@@ -29,7 +29,7 @@ He stared at me for a while and finally looked down to his coffee. I began to la
 
 “Greens. You know, you’re really something. You know that?”
 
-Greens had the most puzzling look on his face, as if he was just given the task of writing mathematic algorithms to plot Daedalus’ maze, then after perplexing over the issue of what in fact was really going on he finally spoke. “Are you insane?”
+Greens had the most puzzling look on his face, as if he was just given the task of writing an algorithm to plot Daedalus’ maze, then after perplexing over the issue of what in fact was really going on he finally spoke. “Are you insane?”
 
 “In all honesty I’m not quite sure yet, though let me just get to my point. You’re a trip Greens you always have been.”
 

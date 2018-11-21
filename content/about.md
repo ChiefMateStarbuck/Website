@@ -4,10 +4,16 @@ date: 2018-07-22T20:52:39-04:00
 showDate: false
 ---
 
-Hello! I'm Samuel Septimus Guyah, current Senior at Florida Atlantic University studying Computer Science. This blog contains my thoughts on mathematics, literature, philosophy, tech, culture, personal journal entires,and generally any subject I find appealing to write about.
+This is my blog. There are many like it but this one is mine.
 
-Most of my free time is spent with my girlfriend, at the gym, or on my machine learning side project.
+I write because I want to write.
 
-You can reach me through my [email](mailto:sguyah2015@fau.edu) and my [Github](https://github.com/ChiefMateStarbuck).
+Please enjoy.
 
-Please enjoy!
+* [Email](mailto:sguyah2015@fau.edu)
+* [Github](https://github.com/ChiefMateStarbuck)
+* [Medium](https://medium.com/@ssguyah)
+
+<!--
+* [twitter](https://twitter.com/possiblynotabot)
+-->

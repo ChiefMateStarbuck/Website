@@ -5,7 +5,7 @@ showDate: false
 draft: false
 tags: ["brown", "wonder"]
 ---
-Long are the days of township solitude. But solitude held little connotation to the norm definition. Solitude meant that nobody around you knew who you were. People of all creeds still interacted with you because the density of the city forced people to be open and socially capable of the many endeavors  it took to know a stranger. With high respect and courtesy you would reciprocate the same social wellbeing onto the them. 
+Long are the days of township solitude. But my solitude held little connotation to the norm definition. MY Solitude meant that nobody around you knew who you were. People of all creeds still interacted with you because the density of the city forced people to be open and socially capable of the many endeavors  it took to know a stranger. With high respect and courtesy you would reciprocate the same social wellbeing onto the them. 
 
 It also meant that you could wander and ponder as you pleased; although wandering and pondering could be seen as synonyms in the pursuit of self-understanding, and in that pursuit you could relate to the faces you saw all around you. Every expression they made seemed oddly familiar in your past selves. The hope of the young lovers on the metro, the calmness of the old and wise pondering about the world around them, the laughter of new friends enjoying each other’s company. I had learned a lot about myself just by pausing to think and ponder. 
 
@@ -13,7 +13,7 @@ Meditation had been a lost concept to me for quite a long period of my life. It 
 
 ///
 
-Yesterday I felt angry at the world. I cursed my oldest friend Greens to high hell and now I am certain we’re now set upon two different paths, him for a palace upon earth, and me in the pursuit of a palace among the stars. Yet, the only thing I can’t seem to figure out is this feeling I get every time I think about the end goal of my endeavor. 
+Yesterday I felt angry at the world. I cursed my oldest friend Greens to high hell and now I am certain we’re now set upon two different paths, him in the pursuit of a palace upon earth, and me in the pursuit of a palace among the stars. Yet, the only thing I can’t seem to figure out is this feeling I get every time I think about the end goal of my endeavor. 
 
 A reluctant shock of fear mixed in with a heavy set of pride, almost as if I am not ready for the road ahead. And I’m not. I never was. But that shouldn’t matter now. Greens and I are through. And that’s well enough for me.
 

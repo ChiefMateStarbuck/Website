@@ -6,8 +6,6 @@ draft: false
 tags: ["love", "poem"]
 ---
 
-My girlfriend is cool
-
-She makes me very happy
-
+My girlfriend is cool  
+She makes me very happy  
 I love her a lot
