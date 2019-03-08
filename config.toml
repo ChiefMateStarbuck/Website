@@ -25,7 +25,7 @@ pygmentsCodefences      = true
     text = "The Blog"
 
 [[params.mainMenu]]
-    link = "/samuel_guyah_resume.pdf"
+    link = "/Samuel_Guyah_Resume.pdf"
     text = "Resume"
 
 [[params.mainMenu]]
